@@ -1,4 +1,4 @@
-const print = require('frame-print');
+const print = require('traceyibabao-frame-print');
 
 print('Hello NPM!');
 

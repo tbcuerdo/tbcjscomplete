@@ -1,1 +1,4 @@
-console.log(arguments);
+// console.log(arguments);
+
+exports.a = 1
+module.exports.b = 2
